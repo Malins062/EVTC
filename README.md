@@ -1,2 +1,2 @@
-# Detained cars
-The jurnal of detaining cars
+# Evacuated vehicle log
+Evacuated vehicle log (yazan city)
