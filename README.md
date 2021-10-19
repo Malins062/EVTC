@@ -1,2 +1,2 @@
-# Evacuated vehicle log
-Evacuated vehicle log (Russia, Ryazan city)
+# Журнал эвакуированных автомобилей
+Программа разрабатона на PHP для нужд ГИБДД.
